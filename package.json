@@ -1,0 +1,36 @@
+{
+  "name": "good-winston-reporter",
+  "version": "1.0.0",
+  "description": "Good reporter usable with winston",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xsellier/good-winston-reporter.git"
+  },
+  "keywords": [
+    "good",
+    "winston",
+    "reporter"
+  ],
+  "author": "Xavier Sellier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xsellier/good-winston-reporter/issues"
+  },
+  "homepage": "https://github.com/xsellier/good-winston-reporter#readme",
+  "devDependencies": {
+    "good": "^6.1.4",
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.11.0",
+    "gulp-lab": "^1.0.5",
+    "hapi": "^8.6.1",
+    "lab": "^5.10.0",
+    "winston": "^1.0.0"
+  },
+  "dependencies": {
+    "lodash": "^3.9.3"
+  }
+}

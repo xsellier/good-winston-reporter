@@ -1,3 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+### WebStorm (IntelliJ)
+.idea
+### Node template
 # Logs
 logs
 *.log
@@ -23,5 +28,8 @@ coverage
 build/Release
 
 # Dependency directory
-# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git-
 node_modules
+
+# Created by start.sh
+nohup.out
